@@ -1,0 +1,5 @@
+Um programa em C, independente de seu tamanho, é composto por funções e variáveis.
+
+Uma função contém sentenças que especificam como operações devem ser executadas e variáveis guardam os dados utilizados durante a computação.
+
+Todo programa é iniciado por uma função especial main, o que quer dizer que todo programa deve ter algum main em algum lugar.
